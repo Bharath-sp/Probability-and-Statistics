@@ -1,2 +1,2 @@
 # Probability-and-Statistics
-Simulation of various special probability distributions on Tableau
+A project where you can find (Math, code, visualization) for each concept in Probability & statistics.
